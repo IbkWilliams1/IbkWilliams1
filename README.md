@@ -6,14 +6,13 @@ I am a petroleum analyst transitioning into DevOps and DevSecOps Engineering. My
 
 ## Current Learning Focus
 
-- Linux system administration
-- Git and GitHub workflows
-- Shell scripting and automation
-- Docker containerization
-- CI/CD with GitHub Actions and Jenkins
-- Infrastructure as Code with Terraform
-- Cloud deployment fundamentals
-- DevSecOps and secure software delivery
+- DevOps Learning Portfolio
+- Flask-Based Laboratory Sample Tracker
+- Dockerized Web Application
+- GitHub Actions CI/CD Pipeline
+- Jenkins Deployment Pipeline
+- Terraform Cloud Infrastructure Lab
+- DevSecOps Security Pipeline
 
 ## Technical Direction
 
