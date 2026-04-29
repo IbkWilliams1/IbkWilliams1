@@ -53,6 +53,5 @@ To grow into a DevOps/DevSecOps Engineer capable of building, automating, securi
 
 ## Contact
 
-For DevOps, DevSecOps, automation, and collaboration-related discussions:
-
+For DevOps, DevSecOps, automation, cloud infrastructure, and collaboration-related discussions:
 **Email:** ibukunwilliams1.devops@gmail.com
