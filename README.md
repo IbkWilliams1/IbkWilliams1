@@ -50,3 +50,9 @@ I have experience in petroleum analysis, laboratory operations, quality control,
 ## Career Objective
 
 To grow into a DevOps/DevSecOps Engineer capable of building, automating, securing, and maintaining reliable technology systems.
+
+## Contact
+
+For DevOps, DevSecOps, automation, and collaboration-related discussions:
+
+**Email:** ibukunwilliams1.devops@gmail.com
